@@ -7,3 +7,6 @@ Data preprocessing and scaling
 Model training using LSTM neural network
 Visualization of training loss and future predictions
 Export of predictions and visualizations
+
+Install the required packages: pip install -r requirements.txt
+Run the Flask app:  python app.py
